@@ -1,0 +1,11 @@
+{
+  "name": "@skillful/eslint-config",
+  "version": "1.0.0",
+  "description": "Skillful's ESLint config.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}
